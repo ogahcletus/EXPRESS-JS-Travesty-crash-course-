@@ -1,0 +1,31 @@
+{
+  "name": "express-js-travesty-crash-course-",
+  "version": "1.0.0",
+  "description": "Travesty crash course on express js",
+  "main": "basicRoutesHandlers.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogahcletus/EXPRESS-JS-Travesty-crash-course-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogahcletus/EXPRESS-JS-Travesty-crash-course-/issues"
+  },
+  "homepage": "https://github.com/ogahcletus/EXPRESS-JS-Travesty-crash-course-#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "handlebars": "^4.7.7",
+    "moment": "^2.29.3",
+    "prettier": "^2.7.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
